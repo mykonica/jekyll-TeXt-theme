@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Activesync 2.5适配方法"
-date:   2018-05-04 9:46:40 +0800
+date:   2018-05-10 23:46:40 +0800
 categories: 技术
 ---
 
@@ -32,6 +32,8 @@ categories: 技术
     | 3 | Unknown PolicyType value. |
     | 4 | The policy data on the server is corrupted (possibly tampered with). |
     | 5 | The client is acknowledging the wrong policy key. |
+
+<!--more-->
 
 * 邮件操作
     - Sync命令（拉邮件列表，读邮件，标记邮件，删除邮件）
